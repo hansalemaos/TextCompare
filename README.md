@@ -1,6 +1,7 @@
 # TextCompare
 Right click on 2 files (Windows Context Menu) to compare their content
 
+[![](https://i.ytimg.com/vi/MkOCKxo__ro/hq2.jpg?sqp=-oaymwEdCMoBEOgCSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&rs=AOn4CLBmQdejJ7YBJ6Wcp68e3HGtmEVk4g)](https://www.youtube.com/shorts/MkOCKxo__ro)
 
 ## How to use the precompiled version
 
